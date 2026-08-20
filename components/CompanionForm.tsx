@@ -68,7 +68,7 @@ const CompanionForm = () => {
                     name="name"
                     render={({ field }) => (
                         <FormItem>
-                            <FormLabel>Companion name</FormLabel>
+                            <FormLabel>Companion Name</FormLabel>
                             <FormControl>
                                 <Input
                                     placeholder="Enter the companion name"
